@@ -3,6 +3,8 @@ This PDF A3 template was made in a workshop by Druckpool (Riso Printing Studio f
 It''s free btw, invite me a coffee if you want or ever see this :) 
 follow me on ig @sabajero
 
+![Look!](cover_a3_zine.png)
+![]()
 
 
 ES
