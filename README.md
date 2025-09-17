@@ -1,11 +1,12 @@
+## <code>A3 Zine Template ;o </code>
+
 This PDF A3 template was made in a workshop by Druckpool (Riso Printing Studio from HfK Bremen) because the one they had was handmade and my workflow always make me do a template or guideline to my projects ;p - thank u people in Druckpool! -. The result is a nice A/B side Zine with each page roughly 74mm x 105mm, and the possibility of 3 "Panoramic views", of course you are free to use it and exploit it as you want! This is just a suggestion that makes for a "long" publication of basically 32 images one-page-each, with 1 A3 sheet, 2 pages and 3 cuts.
 
-It''s free btw, invite me a coffee if you want or ever see this :) 
-follow me on ig @sabajero
+<code style="color : purple">It''s free btw, Paypal me [@egujeron](https://paypal.me/egujeron)  a coffee if you want or ever see this :) 
+follow me on ig [sabajero](https://www.instagram.com/sabajero/)</code>
 
 ![Look!](cover_a3_zine.png)
-![]()
-
+![Layout](layout_a3_zine.png)
 
 ES
 
